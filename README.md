@@ -97,4 +97,17 @@ Plot the linear regression model on top of the previous scatter plot.
 
 
 
+## References
+
+Some of the code examples and solutions in this repository were generated with the help of OpenAI's ChatGPT model. For more information about ChatGPT, visit [OpenAI's website](https://www.openai.com/chatgpt).
+
+
+
+
+
+
+
+
+
+
 
